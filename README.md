@@ -11,9 +11,6 @@ This project is designed to create a text embedding and answer generation pipeli
 - [Installation](#installation)
 - [Usage](#usage)
 - [Project Structure](#project-structure)
-- [Examples](#examples)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Installation
 
